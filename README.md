@@ -18,3 +18,5 @@ ORDER BY year;
 ```
 
 A similar SQL query got the sum of people named John grouped per year.
+
+The dashboard can be seen [here](https://misskatiapunter.github.io/graces_and_johns/)
